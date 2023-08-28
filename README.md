@@ -1,8 +1,10 @@
-# Sobreviviendo-a-la-programacion
+# Sobreviviendo-a-la-programación 
+CAPITULO 1 (el domingo de proclastinar y hacer trabajos)
+
 Copie y pegue el "Hola Mundo" en el bloc de notas, fue un trabajo que me tomo demasiado esfuerzo y casi me quedo sin manos, pero valio la pena :)
 ![Captura1](https://github.com/EmpanadasCONGuaro/Sobreviviendo-a-la-programacion/assets/142174506/7802ed2d-61c7-4a97-9d9f-12b14a7a2ee5)
 
-Lo guarde con ".py" y lo ejecute con Git Bash
+Lo guarde con ".py" y lo ejecute con Git Bash mientras miraba al vecino borracho pedirle perdon a la señora esposa por cacho
 ![Captura2](https://github.com/EmpanadasCONGuaro/Sobreviviendo-a-la-programacion/assets/142174506/fdb71dc7-60ac-4626-9f32-a883e84f1e57)
 
 Cuando creía que todo iba bien, el domingo de PREMIER se daño por que el Liverpool iba perdiendo y me sacaron a Luchito del partido
