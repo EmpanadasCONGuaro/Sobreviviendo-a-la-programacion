@@ -19,6 +19,7 @@ Después, lo ejecute en python y de la nada todo fue color de rosas,  el Liverpo
 
 ![Captura3](https://github.com/EmpanadasCONGuaro/Sobreviviendo-a-la-programacion/assets/142174506/c47d123b-2caf-4a82-b457-972318074b79)
 
+
 Por ultimo me tire las tecleadas prohibidas y lo ejecute en VS Code abriendo el archivo desde la app (abjunto evidencias). 
 
 ![captura5](https://github.com/EmpanadasCONGuaro/Sobreviviendo-a-la-programacion/assets/142174506/778780a4-4510-484e-bc5f-1683710f10de)
