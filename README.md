@@ -1,5 +1,6 @@
 # Sobreviviendo-a-la-programación 
-CAPITULO 1 (el domingo de proclastinar y hacer trabajos)
+
+CAPITULO 1 (el domingo de procrastinar y hacer trabajos)
 
 Copie y pegue el "Hola Mundo" en el bloc de notas, fue un trabajo que me tomo demasiado esfuerzo y casi me quedo sin manos, pero valio la pena :)
 ![Captura1](https://github.com/EmpanadasCONGuaro/Sobreviviendo-a-la-programacion/assets/142174506/7802ed2d-61c7-4a97-9d9f-12b14a7a2ee5)
