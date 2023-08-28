@@ -23,7 +23,4 @@ Por ultimo me tire las tecleadas prohibidas y lo ejecute en VS Code abriendo el 
 
 
 
-
-
-
 AUNQUE ME QUEDO MAL MEDIO TRABAJO, ME SENTI COMO HACKER DEL DRAGON CITY EN EL 2013
