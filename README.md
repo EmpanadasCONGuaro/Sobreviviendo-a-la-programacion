@@ -7,6 +7,7 @@ Lo guarde con ".py" y lo ejecute con Git Bash
 
 Cuando creía que todo iba bien, el domingo de PREMIER se daño por que el Liverpool iba perdiendo y me sacaron a Luchito del partido
 
-Continuando con el trabajo, no pude ejecutarlo como se supone que debia ser y me senti deprimido, entonces me meti a jugar jueguitos de video
+Continuando con el trabajo, no pude ejecutarlo como se supone que debia ser y me senti deprimido, entonces me meti a jugar jueguitos 
+de video (Me da pena decir que juego LoL)
 
 ![Captura4](https://github.com/EmpanadasCONGuaro/Sobreviviendo-a-la-programacion/assets/142174506/547ca4d9-58eb-4753-ae3f-527415948664)
