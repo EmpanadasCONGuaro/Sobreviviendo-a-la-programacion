@@ -10,4 +10,8 @@ Cuando creía que todo iba bien, el domingo de PREMIER se daño por que el Liver
 Continuando con el trabajo, no pude ejecutarlo como se supone que debia ser y me senti deprimido, entonces me meti a jugar jueguitos 
 de video (Me da pena decir que juego LoL)
 
-![Captura4](https://github.com/EmpanadasCONGuaro/Sobreviviendo-a-la-programacion/assets/142174506/547ca4d9-58eb-4753-ae3f-527415948664)
+![Captura4](https://github.com/EmpanadasCONGuaro/Sobreviviendo-a-la-programacion/assets/142174506/9bdb27ab-d014-4f1e-9fdc-ed181c1a77c8)
+
+Después, lo ejecute en python y de la nada todo fue color de rosas,  el Liverpool remonto, yo comi y si pude ejecutarlo bien
+
+![Captura3](https://github.com/EmpanadasCONGuaro/Sobreviviendo-a-la-programacion/assets/142174506/c47d123b-2caf-4a82-b457-972318074b79)
