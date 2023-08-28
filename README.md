@@ -2,6 +2,10 @@
 
 CAPITULO 1 (el domingo de procrastinar y hacer trabajos)
 
+Era domingo a las 10:00 am, abrÍa mi ojos por el sonido de la Alarma (ASI ES PONGO ALARMA PARA PARARME A LAS 10)
+escuchaba gritos fuera de mi casa, y de la nada me acorde del Repositorio de programación y con mucho animo me pare a hacerlo.
+segundos después me invadio la pereza, aunque al fin pude empezar.
+
 Copie y pegue el "Hola Mundo" en el bloc de notas, fue un trabajo que me tomo demasiado esfuerzo y casi me quedo sin manos, pero valio la pena :)
 ![Captura1](https://github.com/EmpanadasCONGuaro/Sobreviviendo-a-la-programacion/assets/142174506/7802ed2d-61c7-4a97-9d9f-12b14a7a2ee5)
 
@@ -28,3 +32,5 @@ Por ultimo me tire las tecleadas prohibidas y lo ejecute en VS Code abriendo el 
 
 
 AUNQUE ME QUEDO MAL MEDIO TRABAJO, ME SENTI COMO HACKER DEL DRAGON CITY EN EL 2013 PONIENDO "HOLA MUNDO" 
+
+FIN 
