@@ -15,3 +15,15 @@ de video (Me da pena decir que juego LoL)
 Después, lo ejecute en python y de la nada todo fue color de rosas,  el Liverpool remonto, yo comi y si pude ejecutarlo bien
 
 ![Captura3](https://github.com/EmpanadasCONGuaro/Sobreviviendo-a-la-programacion/assets/142174506/c47d123b-2caf-4a82-b457-972318074b79)
+
+Por ultimo me tire las tecleadas prohibidas y lo ejecute en VS Code abriendo el archivo desde la app (abjunto evidencias). 
+
+![captura5](https://github.com/EmpanadasCONGuaro/Sobreviviendo-a-la-programacion/assets/142174506/778780a4-4510-484e-bc5f-1683710f10de)
+
+
+
+
+
+
+
+AUNQUE ME QUEDO MAL MEDIO TRABAJO, ME SENTI COMO HACKER DEL DRAGON CITY EN EL 2013
